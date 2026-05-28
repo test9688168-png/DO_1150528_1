@@ -1,0 +1,6 @@
+{
+  "name": "辦公室飲料訂購系統",
+  "description": "精美、現代化的辦公室飲料訂購系統，提供直覺的訂購表單、即時當日訂單統計，並與 Google Apps Script 後端 API 完美無縫同步。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
